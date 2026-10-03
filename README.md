@@ -1,4 +1,4 @@
-# neo-processing
+# p5js-window
 
 [![Build & release](https://github.com/vecnode/neo-processing/actions/workflows/build.yml/badge.svg)](https://github.com/vecnode/neo-processing/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
